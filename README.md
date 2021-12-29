@@ -1,6 +1,13 @@
 # meals-app
 
-Practice react native app with state management using Redux and all standard navigation styles using React Navigation
+Practice react native app with state management using Redux and all standard navigation styles using React Navigation.
+
+This app showcases a varierty of meals from Italian to Asian, from Quick and Easy to Exotic.
+
+- Navigate through various meal categories and a number of number of meals under those categories.
+- Find info about your favourite meal from ingredients, steps, price to Difficulty.
+- Star your favourite meals to view them under Favourites tab
+- Filter meals using the filters tab. Filters tab includes the options for gluten free, lactose free, vegetarian, vegan. Toggle necessary filters and hit the save icon to apply them.
 
 <div align="center">
 <table>
